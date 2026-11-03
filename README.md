@@ -2,7 +2,7 @@
 
 ## What's inside
 
-| File | Day | What it builds |
+| File | What it builds |
 | --- | --- | --- |
 | `agent_graph.py` | The graph model: StateGraph, agent + ToolNode, hand-written `should_continue` edge |
 | `agent_checkpoint.py` |Checkpointing: InMemorySaver and SQLite persistence, keyed by thread |
